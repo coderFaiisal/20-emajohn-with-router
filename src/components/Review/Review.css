@@ -1,0 +1,12 @@
+.review-container {
+  display: flex;
+}
+.review-item-container {
+  width: 70%;
+  margin-left: 30px;
+  padding: 20px;
+  border-right: 1px solid gray;
+}
+.review-cart-container {
+  padding: 20px;
+}
